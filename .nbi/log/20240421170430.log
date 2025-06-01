@@ -1,0 +1,285 @@
+[2024-04-21 17:04:30.483]: entering -- org.netbeans.installer.Installer.main():81
+[2024-04-21 17:04:30.483]: initializing the installer engine
+[2024-04-21 17:04:30.483]:     entering -- org.netbeans.installer.Installer.<init>():116
+[2024-04-21 17:04:30.483]:     ... initializing ErrorHandler
+[2024-04-21 17:04:30.483]:     ... end of ErrorHandler initialization
+[2024-04-21 17:04:30.483]:     exiting -- org.netbeans.installer.Installer.<init>():116
+[2024-04-21 17:04:30.483]:     entering -- org.netbeans.installer.Installer.<init>():117
+[2024-04-21 17:04:30.483]:     dumping target system information
+[2024-04-21 17:04:30.483]:         system properties:
+[2024-04-21 17:04:30.483]:             awt.toolkit => sun.awt.windows.WToolkit
+[2024-04-21 17:04:30.483]:             file.encoding => Cp1252
+[2024-04-21 17:04:30.483]:             file.encoding.pkg => sun.io
+[2024-04-21 17:04:30.483]:             file.separator => \
+[2024-04-21 17:04:30.483]:             java.awt.graphicsenv => sun.awt.Win32GraphicsEnvironment
+[2024-04-21 17:04:30.483]:             java.awt.printerjob => sun.awt.windows.WPrinterJob
+[2024-04-21 17:04:30.483]:             java.class.path => C:\Users\prakriti\AppData\Local\Temp\\NBI23149.tmp\uninstall.jar
+[2024-04-21 17:04:30.483]:             java.class.version => 52.0
+[2024-04-21 17:04:30.498]:             java.endorsed.dirs => C:\Program Files\Java\jre1.8.0_161\lib\endorsed
+[2024-04-21 17:04:30.498]:             java.ext.dirs => C:\Program Files\Java\jre1.8.0_161\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+[2024-04-21 17:04:30.498]:             java.home => C:\Program Files\Java\jre1.8.0_161
+[2024-04-21 17:04:30.498]:             java.io.tmpdir => C:\Users\prakriti\AppData\Local\Temp\
+[2024-04-21 17:04:30.498]:             java.library.path => C:\Program Files\Java\jre1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Java\jre1.8.0_161\bin;C:\Users\prakriti\AppData\Local\Microsoft\WindowsApps;C:\Users\prakriti\AppData\Local\Microsoft\WindowsApps;C:\Users\prakriti\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2023.3.2\bin;.
+[2024-04-21 17:04:30.498]:             java.runtime.name => Java(TM) SE Runtime Environment
+[2024-04-21 17:04:30.498]:             java.runtime.version => 1.8.0_161-b12
+[2024-04-21 17:04:30.498]:             java.specification.name => Java Platform API Specification
+[2024-04-21 17:04:30.498]:             java.specification.vendor => Oracle Corporation
+[2024-04-21 17:04:30.498]:             java.specification.version => 1.8
+[2024-04-21 17:04:30.498]:             java.vendor => Oracle Corporation
+[2024-04-21 17:04:30.498]:             java.vendor.url => http://java.oracle.com/
+[2024-04-21 17:04:30.498]:             java.vendor.url.bug => http://bugreport.sun.com/bugreport/
+[2024-04-21 17:04:30.498]:             java.version => 1.8.0_161
+[2024-04-21 17:04:30.498]:             java.vm.info => mixed mode
+[2024-04-21 17:04:30.498]:             java.vm.name => Java HotSpot(TM) 64-Bit Server VM
+[2024-04-21 17:04:30.500]:             java.vm.specification.name => Java Virtual Machine Specification
+[2024-04-21 17:04:30.500]:             java.vm.specification.vendor => Oracle Corporation
+[2024-04-21 17:04:30.500]:             java.vm.specification.version => 1.8
+[2024-04-21 17:04:30.500]:             java.vm.vendor => Oracle Corporation
+[2024-04-21 17:04:30.500]:             java.vm.version => 25.161-b12
+[2024-04-21 17:04:30.500]:             line.separator => 
+[2024-04-21 17:04:30.500]:             netbeans.default_cachedir_root => C:\Users\prakriti\AppData\Local\NetBeans\Cache
+[2024-04-21 17:04:30.500]:             netbeans.default_userdir_root => C:\Users\prakriti\AppData\Roaming\NetBeans
+[2024-04-21 17:04:30.500]:             os.arch => amd64
+[2024-04-21 17:04:30.500]:             os.name => Windows 10
+[2024-04-21 17:04:30.500]:             os.version => 10.0
+[2024-04-21 17:04:30.500]:             path.separator => ;
+[2024-04-21 17:04:30.500]:             sun.arch.data.model => 64
+[2024-04-21 17:04:30.500]:             sun.boot.class.path => C:\Program Files\Java\jre1.8.0_161\lib\resources.jar;C:\Program Files\Java\jre1.8.0_161\lib\rt.jar;C:\Program Files\Java\jre1.8.0_161\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_161\lib\jce.jar;C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_161\classes
+[2024-04-21 17:04:30.500]:             sun.boot.library.path => C:\Program Files\Java\jre1.8.0_161\bin
+[2024-04-21 17:04:30.500]:             sun.cpu.endian => little
+[2024-04-21 17:04:30.500]:             sun.cpu.isalist => amd64
+[2024-04-21 17:04:30.500]:             sun.desktop => windows
+[2024-04-21 17:04:30.500]:             sun.io.unicode.encoding => UnicodeLittle
+[2024-04-21 17:04:30.500]:             sun.java.command => org.netbeans.installer.Installer --target glassfish-mod 4.1.1.0.1 --force-uninstall
+[2024-04-21 17:04:30.500]:             sun.java.launcher => SUN_STANDARD
+[2024-04-21 17:04:30.500]:             sun.jnu.encoding => Cp1252
+[2024-04-21 17:04:30.500]:             sun.management.compiler => HotSpot 64-Bit Tiered Compilers
+[2024-04-21 17:04:30.500]:             sun.os.patch.level => 
+[2024-04-21 17:04:30.500]:             user.country => US
+[2024-04-21 17:04:30.500]:             user.dir => C:\Windows\ImmersiveControlPanel
+[2024-04-21 17:04:30.500]:             user.home => C:\Users\prakriti
+[2024-04-21 17:04:30.500]:             user.language => en
+[2024-04-21 17:04:30.500]:             user.name => prakriti
+[2024-04-21 17:04:30.500]:             user.script => 
+[2024-04-21 17:04:30.500]:             user.timezone => Asia/Calcutta
+[2024-04-21 17:04:30.500]:             user.variant => 
+[2024-04-21 17:04:30.500]:     ... end of target system information
+[2024-04-21 17:04:30.500]:     exiting -- org.netbeans.installer.Installer.<init>():117
+[2024-04-21 17:04:30.545]:     loading jni library
+[2024-04-21 17:04:30.545]:         library resource path: native/jnilib/windows/windows-x64.dll
+[2024-04-21 17:04:30.973]:         library file path: C:\Users\prakriti\AppData\Local\Temp\nbi-6718306617414476926.tmp
+[2024-04-21 17:04:30.973]:         ... successfully loaded the library
+[2024-04-21 17:04:30.989]:     entering -- org.netbeans.installer.Installer.<init>():122
+[2024-04-21 17:04:30.989]:     parsing command-line arguments
+[2024-04-21 17:04:30.989]:         ... parsing arguments : [--target], [glassfish-mod], [4.1.1.0.1], [--force-uninstall]
+[2024-04-21 17:04:31.005]:         parsing command line parameter "--target"
+[2024-04-21 17:04:31.005]:             target component:
+[2024-04-21 17:04:31.005]:             ... uid:     glassfish-mod
+[2024-04-21 17:04:31.005]:             ... version: 4.1.1.0.1
+[2024-04-21 17:04:31.005]:         parsing command line parameter "--force-uninstall"
+[2024-04-21 17:04:31.005]:     ... finished parsing command line arguments
+[2024-04-21 17:04:31.005]:     exiting -- org.netbeans.installer.Installer.<init>():122
+[2024-04-21 17:04:31.005]:     entering -- org.netbeans.installer.Installer.<init>():123
+[2024-04-21 17:04:31.005]:     loading engine properties
+[2024-04-21 17:04:31.005]:         loading engine properties
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.default => 600
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.gtk => 704
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.head.right.image => resource:org/netbeans/installer/wizard/wizard-description-background.png
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.nimbus => 624
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.win.xp => 450
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.nimbus => 512
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.title.prefix => NetBeans IDE Installer
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.nimbus => 624
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.win.xp => 600
+[2024-04-21 17:04:31.005]:             loading nbi.overall.license.jdk5.resource => org/netbeans/installer/product/components/netbeans-license-jdk5.txt
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.win.classic => 442
+[2024-04-21 17:04:31.005]:             loading nbi.overall.license.jtb.resource => org/netbeans/installer/product/components/netbeans-license-jtb.txt
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.default => 600
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.motif => 470
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.aqua => 480
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.win.xp => 600
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.aqua => 480
+[2024-04-21 17:04:31.005]:             loading nbi.overall.license.jdk6.resource => org/netbeans/installer/product/components/netbeans-license-jdk6.txt
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.default => 500
+[2024-04-21 17:04:31.005]:             loading nbi.product.suggest.install => true
+[2024-04-21 17:04:31.005]:             loading nbi.overall.license.mysql.resource => org/netbeans/installer/product/components/netbeans-license-mysql.txt
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.icon => resource:org/netbeans/installer/wizard/wizard-icon.png
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.gtk => 528
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.aqua => 640
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.motif => 470
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.motif => 624
+[2024-04-21 17:04:31.005]:             loading nbi.product.remove.corrupted.products.silently => true
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.win.classic => 588
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.welcome.left.bottom.image => resource:org/netbeans/installer/wizard/components/panels/netbeans/resources/welcome-left-bottom.png
+[2024-04-21 17:04:31.005]:             loading nbi.overall.license.resource => org/netbeans/installer/product/components/netbeans-license.txt
+[2024-04-21 17:04:31.005]:             loading nbi.macosx.application.directory.name => NetBeans IDE Installer
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.gtk => 528
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.metal => 624
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.motif => 624
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.metal => 470
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.gtk => 704
+[2024-04-21 17:04:31.005]:             loading nbi.junit.license.resource => org/netbeans/installer/product/components/junit-license.txt
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.metal => 624
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.win.classic => 442
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.win.xp => 450
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.default => 500
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.height.nimbus => 512
+[2024-04-21 17:04:31.005]:             loading nbi.overall.license.javafx.resource => org/netbeans/installer/product/components/netbeans-license-javafx.txt
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.title.pattern => {0}
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.width.win.classic => 588
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.width.aqua => 640
+[2024-04-21 17:04:31.005]:             loading nbi.wizard.ui.swing.frame.minimum.height.metal => 470
+[2024-04-21 17:04:31.005]:     ... finished loading engine properties
+[2024-04-21 17:04:31.005]:     exiting -- org.netbeans.installer.Installer.<init>():123
+[2024-04-21 17:04:31.005]:     initializing the local directory
+[2024-04-21 17:04:31.005]:         ... custom local directory was not specified, using the default
+[2024-04-21 17:04:31.005]:         ... local directory: C:\Users\prakriti\.nbi
+[2024-04-21 17:04:31.005]:     ... finished initializing local directory
+[2024-04-21 17:04:31.052]:     entering -- org.netbeans.installer.Installer.<init>():129
+[2024-04-21 17:04:31.052]:     ... initializing DownloadManager
+[2024-04-21 17:04:31.052]:         file not exist, queue is empty!
+[2024-04-21 17:04:31.067]:     ... end of initializing DownloadManager
+[2024-04-21 17:04:31.067]:     exiting -- org.netbeans.installer.Installer.<init>():129
+[2024-04-21 17:04:31.067]:     entering -- org.netbeans.installer.Installer.<init>():130
+[2024-04-21 17:04:31.067]:     ... initializing Registry
+[2024-04-21 17:04:31.083]:     ... end of initializing ErrorHandler
+[2024-04-21 17:04:31.083]:     exiting -- org.netbeans.installer.Installer.<init>():130
+[2024-04-21 17:04:31.083]:     entering -- org.netbeans.installer.Installer.<init>():131
+[2024-04-21 17:04:31.083]:     ... initializing Wizard
+[2024-04-21 17:04:31.334]:         ... loading registry from resource:data/registry.xml
+[2024-04-21 17:04:31.366]:         entering -- org.netbeans.installer.product.Registry.loadProductRegistry():1001
+[2024-04-21 17:04:31.366]:         validating previous installations
+[2024-04-21 17:04:31.366]:         ... validating installations finished
+[2024-04-21 17:04:31.366]:         exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():1001
+[2024-04-21 17:04:31.366]:         Can`t load message in bundle org.netbeans.installer.wizard.components.panels.netbeans.Bundle for key NPrISP.installation.folders using [sun.misc.Launcher$AppClassLoader@33909752] classloader
+[2024-04-21 17:04:31.397]:     ... end of initializing Wizard
+[2024-04-21 17:04:31.397]:     exiting -- org.netbeans.installer.Installer.<init>():131
+[2024-04-21 17:04:31.397]:     creating lock file
+[2024-04-21 17:04:31.397]:         ... created lock file: C:\Users\prakriti\.nbi\.nbilock
+[2024-04-21 17:04:31.397]:     finished creating lock file
+[2024-04-21 17:04:31.397]: ... finished initializing the engine
+[2024-04-21 17:04:31.397]: exiting -- org.netbeans.installer.Installer.main():81
+[2024-04-21 17:04:31.397]: entering -- org.netbeans.installer.Installer.main():81
+[2024-04-21 17:04:31.397]: starting the installer
+[2024-04-21 17:04:31.401]:     ... initializing look and feel
+[2024-04-21 17:04:31.401]:         ... custom look and feel class name was not specified, using system default
+[2024-04-21 17:04:31.586]:         ... class name: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+[2024-04-21 17:04:31.586]:         ... get installed L&Fs
+[2024-04-21 17:04:31.649]:         ... set specified L&F
+[2024-04-21 17:04:31.696]:         ... check headless
+[2024-04-21 17:04:31.696]:         ... creating JFileChooser object to check possible issues with UI
+[2024-04-21 17:04:32.848]:         ... getting default Toolkit to check possible issues with UI
+[2024-04-21 17:04:32.848]:         ... creating JProgressBar object to check possible issues with UI
+[2024-04-21 17:04:32.864]:         ... all UI checks done
+[2024-04-21 17:04:32.864]:         ... L&F is set
+[2024-04-21 17:04:32.864]:     ... initializing L&F finished
+[2024-04-21 17:04:33.054]:     NameResolver - to parse &Help!
+[2024-04-21 17:04:33.054]:     NameResolver - to parse < &Back
+[2024-04-21 17:04:33.054]:     NameResolver - to parse &Next >
+[2024-04-21 17:04:33.054]:     NameResolver - to parse Cancel
+[2024-04-21 17:04:33.069]:     NameResolver - to parse Configuring the Installer...
+[2024-04-21 17:04:33.069]:     NameResolver - to parse Configuring the Installer...
+[2024-04-21 17:04:33.084]:     NameResolver - to parse Configuring the Installer...
+[2024-04-21 17:04:33.084]:     NameResolver - to parse Configuring the Installer...
+[2024-04-21 17:04:33.084]:     NameResolver - to parse Please wait while NetBeans IDE installer initializes
+[2024-04-21 17:04:33.116]:     NameResolver - to parse Configuring the Installer...
+[2024-04-21 17:04:33.116]:     NameResolver - to parse Please wait while NetBeans IDE installer initializes
+[2024-04-21 17:04:33.116]: ... finished starting the installer
+[2024-04-21 17:04:33.116]: exiting -- org.netbeans.installer.Installer.main():81
+[2024-04-21 17:04:33.116]: NameResolver - to parse Configuring the Installer...
+[2024-04-21 17:04:33.116]: entering -- org.netbeans.installer.wizard.components.actions.InitializeRegistryAction.execute():73
+[2024-04-21 17:04:33.116]: initializing product registry
+[2024-04-21 17:04:33.116]:     entering -- org.netbeans.installer.product.Registry.initializeRegistry():190
+[2024-04-21 17:04:33.116]:     initializing product registry properties
+[2024-04-21 17:04:33.116]:         initializing local product cache directory
+[2024-04-21 17:04:33.116]:         ... C:\Users\prakriti\.nbi\product-cache
+[2024-04-21 17:04:33.116]:         initializing local product registry file
+[2024-04-21 17:04:33.116]:             ... C:\Users\prakriti\.nbi\registry.xml
+[2024-04-21 17:04:33.116]:             initializing local product registry stub uri
+[2024-04-21 17:04:33.116]:             ... resource:org/netbeans/installer/product/default-registry.xml
+[2024-04-21 17:04:33.116]:             initializing bundled product registry uri
+[2024-04-21 17:04:33.116]:             ... resource:data/registry.xml
+[2024-04-21 17:04:33.116]:             initializing product registry schema uri
+[2024-04-21 17:04:33.116]:             ... resource:org/netbeans/installer/product/registry.xsd
+[2024-04-21 17:04:33.116]:             initializing remote product registries uris
+[2024-04-21 17:04:33.116]:             initializing state file schema uri
+[2024-04-21 17:04:33.116]:             ... resource:org/netbeans/installer/product/state-file.xsd
+[2024-04-21 17:04:33.116]:             initializing default state file uri
+[2024-04-21 17:04:33.116]:             ... resource:org/netbeans/installer/product/default-state-file.xml
+[2024-04-21 17:04:33.116]:             initializing target platform
+[2024-04-21 17:04:33.116]:             ... windows-x64
+[2024-04-21 17:04:33.116]:     initializing product registry properties
+[2024-04-21 17:04:33.116]:     exiting -- org.netbeans.installer.product.Registry.initializeRegistry():190
+[2024-04-21 17:04:33.116]:     ... loading registry from file:/C:/Users/prakriti/.nbi/registry.xml
+[2024-04-21 17:04:33.241]:     entering -- org.netbeans.installer.product.Registry.loadProductRegistry():1001
+[2024-04-21 17:04:33.241]:     validating previous installations
+[2024-04-21 17:04:33.398]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.414]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.430]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.430]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.445]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.461]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.461]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.477]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.492]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.492]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.505]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.540]:         NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:33.540]:     ... validating installations finished
+[2024-04-21 17:04:33.540]:     exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():1001
+[2024-04-21 17:04:33.540]:     ... loading registry from resource:data/registry.xml
+[2024-04-21 17:04:33.555]:     entering -- org.netbeans.installer.product.Registry.loadProductRegistry():1001
+[2024-04-21 17:04:33.555]:     validating previous installations
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\NetBeans 8.2
+[2024-04-21 17:04:33.555]:         NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:33.555]:     ... validating installations finished
+[2024-04-21 17:04:33.555]:     exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():1001
+[2024-04-21 17:04:33.571]: ... product registry initialization complete
+[2024-04-21 17:04:33.571]: exiting -- org.netbeans.installer.wizard.components.actions.InitializeRegistryAction.execute():73
+[2024-04-21 17:04:33.605]: NameResolver - to parse &Help!
+[2024-04-21 17:04:33.605]: NameResolver - to parse < &Back
+[2024-04-21 17:04:33.605]: NameResolver - to parse &Uninstall
+[2024-04-21 17:04:33.605]: NameResolver - to parse Cancel
+[2024-04-21 17:04:33.605]: NameResolver - to parse &Uninstall
+[2024-04-21 17:04:33.605]: NameResolver - to parse The following components will be uninstalled:
+[2024-04-21 17:04:33.605]: NameResolver - to parse Total Installation Size:
+[2024-04-21 17:04:33.605]: NameResolver - to parse Total Download Size:
+[2024-04-21 17:04:33.649]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:33.649]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:33.649]: NameResolver - to parse Summary
+[2024-04-21 17:04:33.649]: NameResolver - to parse Summary
+[2024-04-21 17:04:33.649]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:33.649]: NameResolver - to parse Summary
+[2024-04-21 17:04:33.649]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:33.649]: NameResolver - to parse Summary
+[2024-04-21 17:04:33.665]: NameResolver - to parse Click Uninstall to start the uninstallation.
+[2024-04-21 17:04:33.665]: NameResolver - to parse Summary
+[2024-04-21 17:04:33.665]: NameResolver - to parse Click Uninstall to start the uninstallation.
+[2024-04-21 17:04:35.666]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:35.666]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:37.668]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:37.668]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:39.671]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:39.671]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:41.676]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:41.676]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:43.682]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:43.682]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:45.685]: Roots : C:\, D:\, E:\
+[2024-04-21 17:04:45.685]: NameResolver - to parse C:\Program Files\glassfish-4.1.1
+[2024-04-21 17:04:47.536]: NameResolver - to parse Cancel
+[2024-04-21 17:04:47.536]: NameResolver - to parse Are you sure you want to cancel?
+[2024-04-21 17:04:47.536]: ... showing Yes/No dialog
+[2024-04-21 17:04:47.536]:     title: Cancel
+[2024-04-21 17:04:47.536]:     message: Are you sure you want to cancel?
+[2024-04-21 17:04:51.240]: ... dialog closed, choice : yes
