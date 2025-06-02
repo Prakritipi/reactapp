@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="container">
       <header >
-        <h1>🌼 Welcome to My Landing Page   testing...</h1>
+        <h1>🌼 Welcome to My Landing Page.</h1>
         <p>This is my very first React app made using Vite!</p>
         <button>Let's Begin</button>
       </header>
